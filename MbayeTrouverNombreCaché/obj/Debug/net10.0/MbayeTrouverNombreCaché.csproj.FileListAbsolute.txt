@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\obj\Debug\net10.0\MbayeTrouverNombreCaché.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\obj\Debug\net10.0\MbayeTrouverNombreCaché.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\obj\Debug\net10.0\MbayeTrouverNombreCaché.AssemblyInfo.cs
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\obj\Debug\net10.0\MbayeTrouverNombreCaché.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\bin\Debug\net10.0\MbayeTrouverNombreCaché.exe
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\bin\Debug\net10.0\MbayeTrouverNombreCaché.deps.json
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\bin\Debug\net10.0\MbayeTrouverNombreCaché.runtimeconfig.json
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\bin\Debug\net10.0\MbayeTrouverNombreCaché.runtimeconfig.dev.json
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\bin\Debug\net10.0\MbayeTrouverNombreCaché.dll
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\bin\Debug\net10.0\MbayeTrouverNombreCaché.pdb
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\obj\Debug\net10.0\MbayeTrouverNombreCaché.dll
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\obj\Debug\net10.0\refint\MbayeTrouverNombreCaché.dll
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\obj\Debug\net10.0\MbayeTrouverNombreCaché.pdb
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\obj\Debug\net10.0\MbayeTrouverNombreCaché.genruntimeconfig.cache
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\obj\Debug\net10.0\ref\MbayeTrouverNombreCaché.dll
+C:\Users\hp\Desktop\DIC\DIC3-INFO\C#&TECHNOLOGIES-NET\code\MbayeTrouverNombreCaché\MbayeTrouverNombreCaché\obj\Debug\net10.0\MbayeTro.55433D3F.Up2Date

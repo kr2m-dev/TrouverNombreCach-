@@ -4,9 +4,6 @@
 td*.txt
 
 # Build results
-bin/
-obj/
-[Bb]uild/
 [Ll]og/
 [Ll]ogs/
 
